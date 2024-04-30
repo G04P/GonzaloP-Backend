@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    name: "Pantalón de mezclilla",
+    price: 29.99,
+    category: "Ropa",
+    imageUrl: "https://example.com/pantalon.jpg",
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    name: "Remera estampada",
+    price: 19.99,
+    category: "Ropa",
+    imageUrl: "https://example.com/remera.jpg",
+    rating: 4.2,
+  },
+  {
+    id: 3,
+    name: "Prod3",
+    price: 15.5,
+    category: "Categoria",
+    imageUrl: "https://example.com/prod3.jpg",
+    rating: 3.8,
+  },
+  {
+    id: 4,
+    name: "Prod4",
+    price: 18,
+    category: "Categoria",
+    imageUrl: "https://example.com/prod4.jpg",
+    rating: 4.1,
+  },
+  {
+    id: 5,
+    name: "Prod5",
+    price: 21.75,
+    category: "Categoria",
+    imageUrl: "https://example.com/prod5.jpg",
+    rating: 4,
+  },
+];
